@@ -15,6 +15,6 @@ Flyout Grace Period: Includes a custom 400ms safety buffer to click system tray 
 
 ## Requirements
 
-Windows 11
+Windows 10, 11
 
 AutoHotkey v2.0+
